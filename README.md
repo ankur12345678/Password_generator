@@ -1,0 +1,2 @@
+# Password_generator
+# Shell-Scripts After collecting the knowledge in BASH scripting, I had started utilizing my knowledge by making useful scripts, this is one of them.This script uses openssl for making random passwords and the encoding is BASE64, you can also customise this script as you want.....this is for those guys who are not able to select a strong password.................. So,Hope you guys like this...........  #Be_Safe_And_Secure  
